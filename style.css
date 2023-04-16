@@ -1,0 +1,28 @@
+main{
+    display: flex;
+    justify-content:  space-evenly;
+}
+
+select {
+    margin-left: 2em;
+    width: 80%;
+}
+
+#result{
+    display: flex;
+    justify-content: space-evenly;
+}
+#col-1{
+    background-color: rebeccapurple;
+    flex-grow: 1;
+}
+#col-2{
+    background-color: yellow;
+    flex-grow: 3;
+
+}
+#col-3{
+    background-color: rebeccapurple;
+    flex-grow: 1;
+
+}
